@@ -70,4 +70,4 @@ Dica:
 A dica revela uma letra da palavra, mas o jogador perde 1 vida de erro ao usá-la.
 
 Autor:
-Pablo Couto Alvares Martins - tuma 105 b
+lowestbody96
